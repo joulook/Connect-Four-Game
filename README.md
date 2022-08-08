@@ -5,6 +5,6 @@ My 3rd project was in the "Advance Programming" course at spring 2016 when I was
 # Tutorial Videos
 I have explained how to write the code of this game in the form of several tutorial videos. To view these videos, refer to this link: https://youtube.com/playlist?list=PL1y-Wxcd3C6AF53Y4Rr8eyP5eZ0ZsChUa
 
-| <img src="out.png" alt="Pair Game" width="400"/> | 
+| <img src="out.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *output* |
